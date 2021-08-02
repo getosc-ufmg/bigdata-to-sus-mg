@@ -1,6 +1,6 @@
 #Base de dados
 
-Base de dados sobre terapeutas ocupaiconais no Sistema Único de Saúde de Minas Gerais. 
+Base de dados sobre terapeutas ocupacionais no Sistema Único de Saúde de Minas Gerais. 
 
 Acesse o arquivo DESCRIPTION.md para mais informações sobre cada arquivo disponibilizado.
 
