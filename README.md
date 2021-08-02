@@ -1,6 +1,6 @@
 #Base de dados
 
-Base de dados com números relacionados a Terapia Ocupacional no Brasil. Há dados de casos e óbitos por município, com informações oficiais do Ministério da Saúde, juntamente com os das Secretarias Estaduais de Saúde obtidos pelo Brasil.IO. Além disso, há dados de suspeitos e vacinados (primeira e segunda dose), a partir do painel do @coronavirusbra1. Outros dados, como de recuperados e testes eram extraídos do @coronavirusbra1 até outubro de 2020, e agora vem de Giscard, além de correções e atualizações próprias. Os números de casos e óbitos do dia atual para cada unidade federativa podem ser atualizados por dados de Giscard, enquanto a linha do tempo é exclusivamente pelo Ministério da Saúde (com devidas correções, veja _fixes_meta.csv) e Brasil.IO.
+Base de dados sobre terapeutas ocupaiconais no Sistema Único de Saúde de Minas Gerais. 
 
 Acesse o arquivo DESCRIPTION.md para mais informações sobre cada arquivo disponibilizado.
 
