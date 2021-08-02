@@ -1,12 +1,12 @@
-# Base de dados
+# Sobre
 
 Base de dados sobre terapeutas ocupacionais no Sistema Único de Saúde de Minas Gerais. 
 
 Acesse o arquivo DESCRIPTION.md para mais informações sobre cada arquivo disponibilizado.
 
-# Observação sobre as licenças
+# Licenças dos dados
 
-Os dados brutos aqui disponibilizados seguem as licenças dos Dados Abertos apresentadas na Isntrução Normativa Nº 4, 12 de abril de 2012 (https://dados.gov.br/pagina/instrucao-normativa-da-inda).
+Os dados brutos aqui disponibilizados seguem as licenças dos Dados Abertos orientadas pela Instrução Normativa Nº 4, 12 de abril de 2012 (https://dados.gov.br/pagina/instrucao-normativa-da-inda).
 
 Não é necessário pedir permissão para utilizar os dados, desde que as fontes sejam preservadas e citadas, incluindo a deste projeto.
 
